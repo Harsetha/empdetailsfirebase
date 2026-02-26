@@ -30,14 +30,16 @@ Step 7: Save and run the application.
 ```
 /*
 Program to print the DatabaseTable using the firebasedatabase”.
-Developed by:
-Registeration Number :
+Developed by: Harsetha J
+Registeration Number :212223220032
 */
 ```
 
 ## OUTPUT
 
+<img width="1920" height="1080" alt="Screenshot (57)" src="https://github.com/user-attachments/assets/ebd60deb-aec4-44e3-8584-a204c87a30f0" />
 
+<img width="1920" height="1080" alt="Screenshot (58)" src="https://github.com/user-attachments/assets/5288c59b-826a-44d4-af52-208665919a07" />
 
 
 ## RESULT
